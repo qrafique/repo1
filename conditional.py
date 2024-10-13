@@ -26,7 +26,7 @@ if operation=='+':
     print("addition:",sum)
 elif operation=='-':
     diff=num1-num2
-    print("subtraction:", sub)
+    print("subtraction:", diff)
 
 elif operation=='*':
     product=num1*num2
